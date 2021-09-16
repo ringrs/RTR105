@@ -1,0 +1,20 @@
+uname - operetajsistema
+echo $0 - kas atverts
+man uname - hardware tips?
+who - kas lieto
+whoami - parada savu vardu (who am i)
+pwd - kur paslaik atrodos
+ls - atver directory
+man ls - saskiro failus directory
+ls -l - failu aprakst directory
+ls -a - pilnigi visi faili directory
+ls -la - pilnigi visi faili directory un to apraksti
+ls -al - pilnigi visi faili directory un to apraksti
+ls -a -l - pilnigi visi faili directory un to apraksti
+ls -l -a - pilnigi visi faili directory un to apraksti
+cd - atver disku
+cd .. - viens solis atpakal diska
+cd ~ - uz home directory
+cd /bin/ - uz directory kur stav visi exe lai linux stradatu (boot)
+cd ../var/ - uz directory kur linux raksta info kamer tiek izmantots
+history - parada visas lietotas komandas
